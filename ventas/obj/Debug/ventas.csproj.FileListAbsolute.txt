@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\ventas\ventas\bin\Debug\ventas.exe.config
+C:\Users\Usuario\source\repos\ventas\ventas\bin\Debug\ventas.exe
+C:\Users\Usuario\source\repos\ventas\ventas\bin\Debug\ventas.pdb
+C:\Users\Usuario\source\repos\ventas\ventas\obj\Debug\ventas.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ventas\ventas\obj\Debug\ventas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ventas\ventas\obj\Debug\ventas.exe
+C:\Users\Usuario\source\repos\ventas\ventas\obj\Debug\ventas.pdb
